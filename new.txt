@@ -1,4 +1,6 @@
-Yatsukovich Elena
-38 years old
-1 cat
-3000$
+{
+"step1": "Yatsukovich Elena",
+"step2": "38 years old",
+"step3": "1 cat",
+"step4": "3000$"
+}
